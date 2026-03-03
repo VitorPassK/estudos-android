@@ -33,8 +33,8 @@ fun Titulo(
         )
         Text(
             text = texto,
-            fontSize = 24.sp,
-            color = Color.Black
+            fontSize = 48.sp,
+            color = Color.Gray
         )
     }
 
